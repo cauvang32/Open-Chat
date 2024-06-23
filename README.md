@@ -1,46 +1,89 @@
-Privacy Policy  
-----------------
+# Open Chat Service Terms and Privacy Policy
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at *Coder-Vippro*, how *Coder-Vippro* uses it, and what choices you have.
-*Coder-Vippro* built the *ChatGPT Plus for Messenger* app as a free app. This SERVICE is provided by *Coder-Vippro* at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+## Service Terms for Open Chat  
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+### 1. Agreement to Terms:
+By engaging with Open Chat, you acknowledge and consent to these terms and conditions.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+### 2. Modification of Terms:
+Open Chat retains the right to amend these Service Terms at any moment, with any changes becoming effective immediately once posted on our main communication platform, Discord.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+### 3. Service Provision:
+Open Chat offers services on an "as is" and "as available" basis. By utilizing Open Chat, you acknowledge that your usage of the service is at your own risk.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+### 4. User Responsibilities:
+You are permitted to use Open Chat only if you agree to comply with all relevant local, state, national, and international laws and treaties.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### 5. Proprietary Content:
+All content provided by Open Chat is owned by us or our licensors and is intended solely for your personal, non-commercial use with Open Chat. It must not be used in any manner that infringes upon our or any third party's intellectual property rights.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+### 6. Prohibited Activities:
+You are prohibited from engaging in activities such as circumventing or bypassing any security features, using data gathering and extraction tools, or any other actions that could harm, disable, overload, or impair Open Chat.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+### 7. Access Termination or Suspension:  
+Open Chat reserves the right to terminate or suspend your access to our service at any time, without notice or liability, for any reason.  
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+### 8. Indemnity:
+By using Open Chat, you agree to indemnify, defend, and hold us harmless from all claims, liabilities, and expenses.
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+### 9. Service Interruptions:
+There may be disruptions to the services due to maintenance, unforeseen circumstances, or events beyond your control. This clarification sets user expectations.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+### 10. Contact Information:
+For any inquiries regarding these Service Terms, please contact the Open Chat team via email at vuquocanh1979@gmail.com.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: *[admin@depzai.work.gd]*  
+## Privacy Policy for Open Chat
+
+### This privacy policy outlines how Open Chat collects, uses, and protects the information of Discord users when interacting with our bot.
+
+### Information We Collect:
+
+1. **User IDs:** Open Chat collects User IDs to provide personalized experiences. Your ID is used to track your use of the bot and manage the services offered to you.
+2. **Server IDs:** Open Chat collects Server IDs to manage services offered to the server. The server ID helps us maintain the performance of the bot in every server where it is installed.
+3. **Message Content:** When using Open Chat, we may collect message content, including the text of your conversations in Discord channels. This data is primarily used to respond to user requests and to enhance the functionality of our bot, ensuring more tailored and accurate interaction. Once Open Chat has responded to the request, the collected messages are automatically deleted from our system. We do not use the content of these messages for any other purpose, nor do we share them with any third party.
+
+### Information Not Collected:
+
+1. **Personal information:** Any information that could identify you outside of Discord is not required and therefore not stored.
+
+### Use of Information:
+
+We utilize your information to provide, improve, and secure the bot's services. Additionally, it helps us track server-specific settings and ensure appropriate feature offerings.
+
+### Disclosure of Information:
+
+Your privacy is paramount to us. We do not share your data with any third-party service providers. We use your data solely for the operation and enhancement of Open Chat.
+
+### Information Security:
+
+We store your information on secure servers and employ encryption and secure protocols to prevent unauthorized access to your data.
+
+### Data Retention Policy:
+
+We prioritize your privacy. All personal information stored within Open Chat will be automatically deleted after 30 days from the time of data collection. This measure is designed to maximize the protection of your personal data and uphold your privacy. Please note that this does not include instances where information must be retained for legal compliance.
+
+### User Rights:
+
+As a user, you have the right to:
+
+a. **Access** - Request access to the personal information we hold about you.
+
+b. **Correct** - Request correction of your personal information if it is inaccurate or incomplete.
+
+c. **Erase** - Request deletion or removal of your personal information from our systems.
+
+d. **Restrict** - Request restriction of our use of your personal information or limit how we use it.
+
+e. **Object** - Object to our use of your personal information, including where we use it for our legitimate interests or for profiling to inform our market research.
+
+f. **Portability** - Request the transfer of your personal information to another service.
+
+Should you wish to exercise any of these rights, please contact us at vuquocanh1979@gmail.com.
+
+### Changes to This Privacy Policy:
+
+We may review and update this policy periodically. Any changes will be communicated on our main bot communication channel in Discord.
+
+### Contact Information:
+
+For any questions or concerns, please reach out to the Open Chat team via email at vuquocanh1979@gmail.com.
